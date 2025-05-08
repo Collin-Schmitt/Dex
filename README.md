@@ -44,6 +44,20 @@
 
 ---
 
+## 📁Project Structure
+
+- ContentView.swift – Main view with Pokémon list and fetch functionality
+- PokemonDetail.swift – Detailed view for each Pokémon, including stats and shiny sprite toggle
+- DexWidget.swift – Widget configuration and layout for random Pokémon display
+- PersistenceController.swift – Core Data setup, in-memory preview, and app group storage
+- FetchedPokemon.swift – Decodable struct for Pokémon data from the API
+- FetchService.swift – Handles all network requests using async/await
+- Stats.swift – Swift Charts implementation for Pokémon stats
+- PokemonExt.swift – Extension for computed properties and data transformation
+- AppDelegate.swift – Initializes Core Data container and app group
+
+---
+
 ## 📸 Screenshots
 
 <h4>Initial Home Screen</h4>
