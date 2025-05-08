@@ -2,7 +2,7 @@
 //  DexApp.swift
 //  Dex
 //
-//  Created by Collin Schmitt on 4/22/25.
+//  Created by Collin Schmitt on 12/11/24.
 //
 
 import SwiftUI
