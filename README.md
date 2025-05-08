@@ -44,3 +44,28 @@
 
 ---
 
+## 📸 Screenshots
+
+<h4>Initial Home Screen</h4>
+<img src="Screenshots/Initial_home_screen.png" alt="Initial Home Screen" height="400"/>
+
+<h4>Home Screen with Swipe Action to Favorite Pokémon</h4>
+<img src="Screenshots/Home_screen_with_Pokemon_and_favorite_swipe_action.png" alt="Home Screen with Swipe Action" height="400"/>
+
+<h4>Favorites Screen</h4>
+<img src="Screenshots/Favorites_screen.png" alt="Favorites Screen" height="400"/>
+
+<h4>Pokemon Detail Screen</h4>
+<img src="Screenshots/Pokemon_detail.png" alt="Pokemon Detail Screen" height="400"/>
+
+<h4>Pokemon Detail Screen - Part 2</h4>
+<img src="Screenshots/PokemonDetailscreen_pt2.png" alt="Pokemon Detail Screen Part 2" height="400"/>
+
+<h4>Shiny Pokemon Image Toggle</h4>
+<img src="Screenshots/Pokemon_image_change_shiny.png" alt="Shiny Pokemon" height="400"/>
+
+<h4>Widget - Small Size</h4>
+<img src="Screenshots/Small_widget.png" alt="Small Widget" height="400"/>
+
+<h4>Widget - Medium & Large Sizes</h4>
+<img src="Screenshots/Big_and_medium_widget.png" alt="Medium and Large Widgets" height="400"/>
